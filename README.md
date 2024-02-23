@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @guisenaa
-- 👀 I’m interested in  aprender programação
-- 🌱 I’m currently learning  eletrônica
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  guisenaasts@gmail.com
+- 👀 I’m interested in  cybersecurity
+- 🌱 I’m currently studying information systems
+- 📫 How to reach me  guisenaasts@gmail.com or my LinkedIn https://www.linkedin.com/in/guilherme-a-s-santos-925751225/
 
 <!---
 guisenaa/guisenaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
